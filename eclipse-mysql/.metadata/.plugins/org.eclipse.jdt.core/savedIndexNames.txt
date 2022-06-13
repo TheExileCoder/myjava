@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\myjava\eclipse-mysql\.metadata\.plugins\org.eclipse.jdt.core
+3709173380.index
+3294905223.index
+120281901.index
